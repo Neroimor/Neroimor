@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**Neroimor/Neroimor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Neroimor 👋
+Real name Daniil Strokalov
 
-Here are some ideas to get you started:
+**C# / .NET Developer**  
+Backend • Desktop • Mobile  
+I build services, tools, and digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+╔══════════════════════╗
+║      /\_/\           ║
+║     ( -.- )   zzz    ║
+║      > ^ <           ║
+╚══════════════════════╝
+
+## 🛠 Tech Stack
+
+**Languages:**  
+C# • Java • TypeScript • SQL
+
+**Frameworks & Tools:**  
+.NET 8 • ASP.NET Core • MAUI • Blazor Hybrid • WPF • Blazor WASM • WinForms
+
+**Backend & Architecture:**  
+REST APIs • Clean Architecture • Microservices
+
+**DevOps & Environment:**  
+Docker • Linux • CI/CD • Nginx
+
+**Databases:**  
+PostgreSQL • SQL Server
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Neroimor&show_icons=true&theme=tokyonight&hide_title=true)
+
+![Streak](https://streak-stats.demolab.com/?user=Neroimor&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neroimor&layout=compact&theme=tokyonight)
