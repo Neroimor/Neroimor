@@ -23,10 +23,7 @@ Docker • Linux • CI/CD • Nginx
 **Databases:**  
 PostgreSQL • SQL Server
 
-## 📊 GitHub Stats
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neroimor&show_icons=true&theme=radical)](https://github.com/Neroimor)
 
 
 
