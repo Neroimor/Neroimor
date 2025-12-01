@@ -1,4 +1,3 @@
-
 # Hey, I'm Neroimor 👋
 Real name Daniil Strokalov
 
@@ -7,16 +6,10 @@ Backend • Desktop • Mobile
 I build services, tools, and digital products.
 
 
-╔══════════════════════╗
-║      /\_/\           ║
-║     ( -.- )   zzz    ║
-║      > ^ <           ║
-╚══════════════════════╝
-
 ## 🛠 Tech Stack
 
 **Languages:**  
-C# • Java • TypeScript • SQL
+C# • SQL
 
 **Frameworks & Tools:**  
 .NET 8 • ASP.NET Core • MAUI • Blazor Hybrid • WPF • Blazor WASM • WinForms
