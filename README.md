@@ -9,7 +9,7 @@ I build services, tools, and digital products.
 ## 🛠 Tech Stack
 
 **Languages:**  
-C# • SQL
+C# • SQL • Java
 
 **Frameworks & Tools:**  
 .NET 8 • ASP.NET Core • MAUI • Blazor Hybrid • WPF • Blazor WASM • WinForms
