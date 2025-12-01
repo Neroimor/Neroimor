@@ -26,6 +26,6 @@ PostgreSQL • SQL Server
 ## 📊 GitHub Stats
 
 
-![Streak](https://streak-stats.demolab.com/?user=Neroimor&theme=tokyonight&hide_border=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЮЗЕРНЕЙМ&show_icons=true&theme=radical)](https://github.com/ТВОЙ_ЮЗЕРНЕЙМ)
 
 
