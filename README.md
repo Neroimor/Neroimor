@@ -12,7 +12,7 @@ I build services, tools, and digital products.
 C# • SQL • Java
 
 **Frameworks & Tools:**  
-.NET 8 • ASP.NET Core • MAUI • Blazor Hybrid • WPF • Blazor WASM • WinForms
+.NET 10 • ASP.NET Core • MAUI • Blazor Hybrid • WPF • Blazor WASM • WinForms
 
 **Backend & Architecture:**  
 REST APIs • Clean Architecture • Microservices
