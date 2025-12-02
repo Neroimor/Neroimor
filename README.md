@@ -25,6 +25,4 @@ PostgreSQL • SQL Server
 
 
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Neroimor&theme=transparent&hide_border=true&border_radius=5&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Neroimor&theme=youtube-dark)](https://git.io/streak-stats)
