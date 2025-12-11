@@ -23,6 +23,3 @@ Docker • Linux • CI/CD • Nginx
 **Databases:**  
 PostgreSQL • SQL Server
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Neroimor&theme=youtube-dark)](https://git.io/streak-stats)
